@@ -1,0 +1,57 @@
+
+Privacy Policy
+Effective Date: 6/14/2025
+App Name: TodoList Demo
+Developer: Mustafa Jadid
+
+1. Overview
+This Privacy Policy explains how your information is collected, used, and disclosed by the TodoList Demo Android app. By using this app, you agree to the collection and use of information in accordance with this policy.
+
+2. Information We Collect
+a. Personal Information
+We collect the following personal information when you use Firebase Authentication:
+- Name (if provided via Google or Facebook login)
+- Email address
+- Facebook public profile (if using Facebook login)
+
+b. To-Do Data
+We store your personal to-do items securely in Firebase Firestore. Each authenticated user has a private data store that is not shared with others.
+
+c. Device and Usage Data
+We may collect anonymized usage statistics (such as crash reports) via Firebase Analytics or related services to improve app performance. These do not contain personally identifiable information.
+
+3. How We Use Your Information
+- To authenticate users via Firebase Authentication
+- To securely store and sync your to-do list items
+- To improve the app experience via anonymized usage analysis
+
+4. How We Share Your Information
+We do not sell, trade, or share your personal information with third parties. Your data is stored securely via Google Firebase services, in accordance with their privacy policies.
+
+5. Third-Party Services
+This app uses the following third-party services:
+- Firebase Authentication
+- Firebase Firestore
+- Facebook Login
+- Google Sign-In
+
+You can review their privacy policies here:
+- Firebase Privacy Policy: https://firebase.google.com/support/privacy
+- Google Privacy Policy: https://policies.google.com/privacy
+- Facebook Privacy Policy: https://www.facebook.com/policy.php
+
+6. Data Retention and Deletion
+Your to-do data is retained as long as your account exists. If you uninstall the app or request deletion of your data, we will permanently delete your stored information upon confirmation.
+To delete your data, contact: [Insert your support email here]
+
+7. Security
+We take reasonable steps to protect your data using Firebase's built-in security rules and encryption. However, no method of electronic transmission is 100% secure.
+
+8. Changes to This Policy
+We may update this Privacy Policy occasionally. Changes will be posted in the app or via an update. Continued use of the app after changes means you accept the new policy.
+
+9. Contact
+If you have any questions or requests about this privacy policy, contact:
+Email: [Insert your email]
+Developer: Mustafa Jadid
+App: TodoList Demo
