@@ -1,0 +1,37 @@
+DATA DELETION INSTRUCTIONS
+
+This document explains how users can request the deletion of their personal data from our To-Do List App.
+
+1. WHAT DATA WE STORE:
+- User authentication data (e.g., email, user ID) via Firebase Authentication.
+- To-do items created by the user, stored in Firebase Firestore.
+- App usage data (e.g., crash reports, analytics), if enabled.
+
+2. HOW TO REQUEST DATA DELETION:
+To request deletion of your personal data, please follow these steps:
+
+Step 1: Contact Us
+- Send an email to: [your support email here]
+- Subject: "Data Deletion Request"
+- Include the email address associated with your account.
+
+Step 2: Verification
+- We will verify your identity by confirming your account details.
+
+Step 3: Deletion
+- Upon verification, we will:
+  - Delete your Firebase Authentication account.
+  - Delete all your to-do list data stored in Firestore.
+  - Remove any associated analytics data (if applicable).
+
+Step 4: Confirmation
+- You will receive a confirmation email once your data has been permanently deleted.
+
+3. TIMEFRAME:
+Data deletion requests are typically processed within 7 business days.
+
+4. CONTACT:
+If you have any questions, please contact:  
+[your support email here]
+
+Thank you for using our app.
